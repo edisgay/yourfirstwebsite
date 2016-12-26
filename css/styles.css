@@ -1,0 +1,33 @@
+
+        .body-initial {
+            background-color: rgb(38, 38, 38); 
+        }
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.body-initial {
+            background-color: rgba(2,40,47,0.792156862745098); 
+        }
+        }.silex-id-1482767055816-10 {
+            min-height: 100px; 
+            width: 100px; 
+            top: 100px; 
+            left: 490px; 
+        }
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1482767055816-10 {
+            top: 60px; 
+            left: 12px; 
+            width: 438px; 
+            min-height: 68px; 
+        }
+        }.silex-id-1482767433975-13 {
+            min-height: 100px; 
+            width: 100px; 
+            top: 100px; 
+            left: 490px; 
+        }
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1482767433975-13 {
+            top: 184px; 
+            left: 12px; 
+            width: 438px; 
+            min-height: 262px; 
+        }
+        }
+    
